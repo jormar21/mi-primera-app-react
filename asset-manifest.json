@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mi-primera-app-react/static/css/main.ffdbd306.css",
-    "main.js": "/mi-primera-app-react/static/js/main.720551bb.js",
+    "main.js": "/mi-primera-app-react/static/js/main.7c1d65ec.js",
     "static/js/453.adaf5a57.chunk.js": "/mi-primera-app-react/static/js/453.adaf5a57.chunk.js",
     "static/media/logo.svg": "/mi-primera-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mi-primera-app-react/index.html",
     "main.ffdbd306.css.map": "/mi-primera-app-react/static/css/main.ffdbd306.css.map",
-    "main.720551bb.js.map": "/mi-primera-app-react/static/js/main.720551bb.js.map",
+    "main.7c1d65ec.js.map": "/mi-primera-app-react/static/js/main.7c1d65ec.js.map",
     "453.adaf5a57.chunk.js.map": "/mi-primera-app-react/static/js/453.adaf5a57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffdbd306.css",
-    "static/js/main.720551bb.js"
+    "static/js/main.7c1d65ec.js"
   ]
 }
